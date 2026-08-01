@@ -10,7 +10,8 @@ The idea is inspired by real-world warehouse automation systems, where multiple 
 
 This project started as a learning experiment in robotics and AI, but it evolved into a complete simulation system with path planning, task assignment, robot coordination, and a monitoring dashboard.
 ## Demo
-![ORION Robotics Warehouse Simulation](assets/screenshot1.png)
+
+![ORION Robotics Warehouse Simulation](assets/screenshot1)
 
 ⸻
 
