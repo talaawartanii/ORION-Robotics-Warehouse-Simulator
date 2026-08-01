@@ -148,5 +148,4 @@ Tala
 Robotics & Artificial Intelligence 
 Engineering Student
 
-Tala
-Robotics & Artificial Intelligence Engineering Student
+
